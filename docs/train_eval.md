@@ -16,7 +16,8 @@ python navsim/planning/script/run_dataset_caching.py agent=diffusiondrivev2_rl_a
 
 ```
 ## 2. Download Checkpoints
-Download the following files from xxx and [huggingface](https://huggingface.co/timm/resnet34.a1_in1k) and place them in the `ckpts` directory:
+Download the following checkpoints from [DiffusionDriveV2](https://huggingface.co/hustvl/DiffusionDriveV2), [DiffusionDrive](https://huggingface.co/hustvl/DiffusionDrive) and [resnet34.a1_in1k](https://huggingface.co/timm/resnet34.a1_in1k),  and place them in the `ckpts` directory:
+- `resnet34.a1_in1k`
 - `diffusiondrive_navsim_88p1_PDMS` (DiffusionDrive model)
 - `diffusiondrivev2_rl.ckpt` (The RL-trained DiffusionDrive model.)
 - `diffusiondrivev2_sel.ckpt` (diffusiondrivev2_rl + mode selector)
