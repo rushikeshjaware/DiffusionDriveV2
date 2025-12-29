@@ -64,7 +64,7 @@ python $NAVSIM_DEVKIT_ROOT/navsim/planning/script/run_pdm_score_fast.py \
         +test_cache_path="${NAVSIM_EXP_ROOT}/metric_feature_cache/"
 ```
 
-Alternatively, you can use the official evaluation script, but you will need to uncomment this [line](https://github.com/Doctor-James/DiffusionDriveV2/blob/master/navsim/agents/diffusiondrivev2/diffusiondrivev2_model_sel.py#L1491).
+Alternatively, you can use the official evaluation script, but you will need to uncomment this [line](https://github.com/hustvl/DiffusionDriveV2/blob/master/navsim/agents/diffusiondrivev2/diffusiondrivev2_model_sel.py#L1491).
 ```bash
 python $NAVSIM_DEVKIT_ROOT/navsim/planning/script/run_pdm_score.py \
         train_test_split=navtest \
